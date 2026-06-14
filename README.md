@@ -107,6 +107,15 @@ Output:
 
 * Loan Approved
 
+* ## Live Demo
+
+Try the deployed Streamlit application here:
+
+**🔗 Live Demo:** https://loanapprovalapp-vgit9bwihgvawa8kckvupf.streamlit.app/
+
+The web application allows users to enter applicant details such as age, income, loan amount, credit score, employment status, existing loans, loan term, and property area to receive an instant loan approval prediction.
+
+
 ## Future Enhancements
 
 * Web-based interface using Flask or Streamlit
